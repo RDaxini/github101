@@ -1,2 +1,2 @@
 # github101
-DECS Demonstration
+DuraMAT Early Career Scientists (DECS) Demonstration
